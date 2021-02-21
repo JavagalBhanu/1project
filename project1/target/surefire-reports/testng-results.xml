@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[testA]]>
+    </line>
+  </reporter-output>
+  <suite name="AutomationSuite" duration-ms="9361" started-at="2021-02-21T06:39:30Z" finished-at="2021-02-21T06:39:40Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="9361" started-at="2021-02-21T06:39:30Z" finished-at="2021-02-21T06:39:40Z">
+      <class name="scripts.TestScript1">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScript1@4909b8da]" name="preCondition" is-config="true" duration-ms="9146" started-at="2021-02-21T12:09:30Z" finished-at="2021-02-21T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testA()[pri:0, instance:scripts.TestScript1@4909b8da]" name="testA" duration-ms="4" started-at="2021-02-21T12:09:39Z" finished-at="2021-02-21T12:09:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testA]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.TestScript1@4909b8da]" name="postCondition" is-config="true" duration-ms="149" started-at="2021-02-21T12:09:39Z" finished-at="2021-02-21T12:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- scripts.TestScript1 -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>

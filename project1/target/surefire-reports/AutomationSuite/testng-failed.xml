@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [AutomationSuite]">
+  <test name="SmokeTest(failed)">
+    <classes>
+      <class name="scripts.TestScript1">
+        <methods>
+          <include name="testA"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- scripts.TestScript1 -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [AutomationSuite] -->

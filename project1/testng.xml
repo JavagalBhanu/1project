@@ -1,0 +1,7 @@
+<suite name="AutomationSuite">
+  <test name="SmokeTest">
+    <packages>
+      <package name="scripts"/>
+    </packages>
+  </test>
+</suite>
