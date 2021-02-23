@@ -20,7 +20,7 @@ public class Excel {
 			data= c.getStringCellValue();
 		}
 		catch(Exception e) {
-			
+			e.printStackTrace();
 		}
 		
 		return data;

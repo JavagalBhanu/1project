@@ -1,5 +1,7 @@
-E:\Online\Selenium\Sunil_Australia\Day18_21_Feb_2021\AFW\project1\src\test\java\pages\LoginPage.java
-E:\Online\Selenium\Sunil_Australia\Day18_21_Feb_2021\AFW\project1\src\test\java\generic\IAutoConst.java
-E:\Online\Selenium\Sunil_Australia\Day18_21_Feb_2021\AFW\project1\src\test\java\generic\Excel.java
-E:\Online\Selenium\Sunil_Australia\Day18_21_Feb_2021\AFW\project1\src\test\java\scripts\TestScript1.java
-E:\Online\Selenium\Sunil_Australia\Day18_21_Feb_2021\AFW\project1\src\test\java\generic\BaseTest.java
+C:\Users\user\git\1project\project1\src\test\java\pages\ETTPage.java
+C:\Users\user\git\1project\project1\src\test\java\scripts\ValidLogin.java
+C:\Users\user\git\1project\project1\src\test\java\pages\LoginPage.java
+C:\Users\user\git\1project\project1\src\test\java\scripts\InvalidLogin.java
+C:\Users\user\git\1project\project1\src\test\java\generic\IAutoConst.java
+C:\Users\user\git\1project\project1\src\test\java\generic\Excel.java
+C:\Users\user\git\1project\project1\src\test\java\generic\BaseTest.java

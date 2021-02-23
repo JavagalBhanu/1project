@@ -1,5 +1,4 @@
 generic\BaseTest.class
 generic\Excel.class
 pages\LoginPage.class
-scripts\TestScript1.class
 generic\IAutoConst.class

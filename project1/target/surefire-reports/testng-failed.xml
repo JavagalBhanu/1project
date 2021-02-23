@@ -3,12 +3,13 @@
 <suite verbose="0" name="Failed suite [AutomationSuite]">
   <test name="SmokeTest(failed)">
     <classes>
-      <class name="scripts.TestScript1">
+      <class name="scripts.ValidLogin">
         <methods>
-          <include name="testA"/>
+          <include name="postCondition"/>
+          <include name="testValidLogin"/>
           <include name="preCondition"/>
         </methods>
-      </class> <!-- scripts.TestScript1 -->
+      </class> <!-- scripts.ValidLogin -->
     </classes>
   </test> <!-- SmokeTest(failed) -->
 </suite> <!-- Failed suite [AutomationSuite] -->
